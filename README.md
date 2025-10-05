@@ -27,7 +27,7 @@
 #### 🧾 Gestor de Reservas y Pedidos para Cafetería
 Aplicación de escritorio en **Python + PyQt5** que permite administrar pedidos y reservas.  
 Incluye interfaz gráfica, manejo de archivos y validaciones de usuario.  
-🔗 [Ver repositorio](https://github.com/EmilianoMtzC/cafe-order-reservation-manager)
+🔗 [Ver repositorio](https://github.com/EmilianoMtzC/coffee-manager-app)
 
 ---
 
