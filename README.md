@@ -22,10 +22,6 @@
 
 ---
 
-### Insignias obtenidas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://www.credly.com/badges/d655aa3e-ce07-4074-b629-b349ec71994f/public_url)
----
-
 ### 📂 Proyectos destacados
 
 #### 🧾 Gestor de Reservas y Pedidos para Cafetería
