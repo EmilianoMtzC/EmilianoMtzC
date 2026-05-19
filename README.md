@@ -21,9 +21,10 @@ Documentación técnica y aprendizaje autodidacta
 Me interesa construir aplicaciones funcionales, optimizadas y con una buena experiencia de usuario, mientras continúo aprendiendo nuevas tecnologías y mejores prácticas de desarrollo.
 
 __Objetivos__
-Seguir creciendo como desarrollador Full Stack
-Participar en proyectos reales y colaborativos
-Aprender nuevas tecnologías y frameworks
-Crear soluciones útiles y escalables
+- Seguir creciendo como desarrollador Full Stack
+- Participar en proyectos reales y colaborativos
+- Aprender nuevas tecnologías y frameworks
+- Crear soluciones útiles y escalables
+
 __Contacto__
 Email: [jemtzc.2007@gmail.com]
