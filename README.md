@@ -1,15 +1,15 @@
 Hola, soy Emiliano Martínez
 
-Estudiante de Desarrollo de Software apasionado por la tecnología, el desarrollo web y la resolución de problemas.
+Estudiante de Desarrollo de Software apasionado por la tecnología, el desarrollo web y la resolución de problemas.  
 
 Actualmente me enfoco en el desarrollo Full Stack, trabajando principalmente con:
 
-⚡ JavaScript
-⚛️ React
-🌐 HTML & CSS
-🟢 Node.js
-🐍 Python
-🗄️ Bases de datos y lógica Backend
+- ⚡ __JavaScript__
+- ⚛️ __React__
+- 🌐 __HTML & CSS__
+- 🟢 __Node.js__
+- 🐍 __Python__
+- 🗄️ __Bases de datos y lógica Backend__
 
 También tengo experiencia en:
 
